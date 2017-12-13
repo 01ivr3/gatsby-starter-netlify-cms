@@ -5,7 +5,7 @@ title: Testing CMS
 date: 2017-12-13T01:46:13.340Z
 description: Yo Yo yo is this working???
 ---
-Here is some **BOLD TEST **and _Italics_
+Here is some **BOLD TEST** and _Italics_
 
 `<div> some kind of code snippet like block </div>`
 
